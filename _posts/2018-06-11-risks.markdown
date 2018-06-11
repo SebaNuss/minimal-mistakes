@@ -1,6 +1,8 @@
 ---
 layout: posts
 title:  "Foo Bar"
+header: 
+  image: /assets/images/risk.jpg 
 date:   2018-06-11 18:30:00 +0200
 categories: calculus
 ---

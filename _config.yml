@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastien Nussbaum"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/based64.jpg"
   bio              : "I break stuff."
   location         : "Belgium"
   email            : "sebastien.nussbaum@hotmail.com"
